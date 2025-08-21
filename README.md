@@ -46,6 +46,6 @@ This machine learning module is one part of the Soft Robot Control System, which
 - **ESP32 Firmware – for real-time actuator control, pressure regulation, and sensor acquisition.
 
 👉 For the full project, see the companion repositories:  
-- [soft-robotics-gui](https://github.com/luqmanroslan/SoftRobotics-PyQt5-GUI)  
+- [soft-robotics-gui](https://github.com/luqmanroslan/SoftRobotics-PyQt5-GUI-Clean/tree/main)  
 - [soft-robotics-esp32-firmware](https://github.com/luqmanroslan/soft-robotics-esp32-firmware)  
 
