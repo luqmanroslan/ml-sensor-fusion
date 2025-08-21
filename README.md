@@ -33,7 +33,7 @@ It was developed as part of a soft robotics project and demonstrates applied mac
    ```
 
 
-Outputs (saved in the repo folder)
+## Outputs (saved in the repo folder)
 
 - rf_pose_model.joblib — trained Random Forest model
 
