@@ -1,8 +1,7 @@
-# ml-training
 # Machine Learning for Sensor Fusion (6-DoF Pose Estimation)
 
 This repository contains a training script that maps **sensor inputs** (IMU and potentiometer readings) to **6-DoF actuator poses** (`x, y, z, roll, pitch, yaw`).  
-It was developed as part of a soft robotics project and demonstrates applied machine learning for regression, evaluation, and research tooling.
+It was developed as part of a final year MEng soft robotics project and demonstrates applied machine learning for regression, evaluation, and research tooling.
 
 ---
 
