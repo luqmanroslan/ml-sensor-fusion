@@ -35,9 +35,9 @@ It was developed as part of a soft robotics project and demonstrates applied mac
 
 Outputs (saved in the repo folder)
 
--rf_pose_model.joblib — trained Random Forest model
+- rf_pose_model.joblib — trained Random Forest model
 
--nn_pose_model.keras — trained Neural Network model
+- nn_pose_model.keras — trained Neural Network model
 
--Plots: MSE comparisons, scatter plots, learning curves
+- Plots: MSE comparisons, scatter plots, learning curves
 
