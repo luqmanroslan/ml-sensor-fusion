@@ -23,7 +23,7 @@ def main():
     # ---------------------------
     # 1. LOAD & FILTER THE DATA
     # ---------------------------
-    data_path = r"C:\Users\rosla\OneDrive\Desktop\simulated_datax.csv"
+    data_path = "simulated_datax.csv"
   
     # Load full dataset to include estimated pose columns for later comparison
     full_df = pd.read_csv(data_path)
@@ -327,4 +327,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
