@@ -40,3 +40,12 @@ It was developed as part of a final year MEng soft robotics project and demonstr
 
 - Plots: MSE comparisons, scatter plots, learning curves
 
+## Integration with the Full System  
+This machine learning module is one part of the Soft Robot Control System, which also includes:
+- **PC-side GUI & Communication Layer – for visualization, joystick/voice control, and serial communication with the ESP32.
+- **ESP32 Firmware – for real-time actuator control, pressure regulation, and sensor acquisition.
+
+👉 For the full project, see the companion repositories:  
+- [soft-robotics-gui](https://github.com/luqmanroslan/SoftRobotics-PyQt5-GUI)  
+- [soft-robotics-esp32-firmware](https://github.com/luqmanroslan/soft-robotics-esp32-firmware)  
+
